@@ -22,7 +22,7 @@ Accerlerated C plus plus
 > We can find all other CS blogs or CS BBS are all recommend 《Accerlerated C++》 as the C++'s most classic books.But most people, who read this book may put their eyes in the formal konwledge but ignore the exercises.Even their realize the importance of these exercises but some maybe a little difficult or although they accomplished it they also want to konw whether it it true or not.Unfortunately there haven't publish a book about solutions to these exercises.So I got this idea,to do every of these exercises,try to give an integrity codes, for your all the CPPers to reference.But it's a pity that I am not a Master,and my coding ability is limited,so my solutions about some exercises may not be optimal. Thus very glad to get your reply and we also learn together.
 
 >[Blogs] http://blog.csdn.net/yj_cs<br>
->[Email] 975468079@qq.com
+>[Email] 975468079@qq.com<br>
 >[Chinese version of this book's exercise solutions] http://blog.csdn.net/yj_cs/article/details/40112579
 
 ===
