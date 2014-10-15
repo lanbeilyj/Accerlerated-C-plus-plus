@@ -23,6 +23,7 @@ Accerlerated C plus plus
 
 >[Blogs] http://blog.csdn.net/yj_cs<br>
 >[Email] 975468079@qq.com
+>[Chinese version of this book's exercise solutions] http://blog.csdn.net/yj_cs/article/details/40112579
 
 ===
 ###Content
