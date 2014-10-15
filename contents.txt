@@ -1,0 +1,20 @@
+Accerlerated C++:Practical Programming by Example
+author:Andrew Koening,Barbara E.Moo
+
+chapter0   Getting Started
+chapter1   Working and strings
+chapter2   Looping and counting
+chapter3   Working with batches of data
+chapter4   Organizing programs and data
+chapter5   Using sequential containers and analyzing strings
+chapter6   Using library algorithms
+chapter7   Using associative containers
+chapter8   Writting generic functions
+chapter9   Defining new types
+chapter10  Managing memory and low-level data structures
+chapter11  Defining abstract data types
+chapter12  Making class objects act like values
+chapter13  Using inheritance and dynamic binding
+chapter14  Managing memory(almost)automatically
+chapter15  Revisiting character pictures
+chapter16 Where do we go from here?
