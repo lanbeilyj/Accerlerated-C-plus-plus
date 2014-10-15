@@ -27,20 +27,20 @@ Accerlerated C plus plus
 ===
 ###Content
 > 
-chapter0   Getting Started
-chapter1   Working and strings
-chapter2   Looping and counting
-chapter3   Working with batches of data
-chapter4   Organizing programs and data
-chapter5   Using sequential containers and analyzing strings
-chapter6   Using library algorithms
-chapter7   Using associative containers
-chapter8   Writting generic functions
-chapter9   Defining new types
-chapter10  Managing memory and low-level data structures
-chapter11  Defining abstract data types
-chapter12  Making class objects act like values
-chapter13  Using inheritance and dynamic binding
-chapter14  Managing memory(almost)automatically
-chapter15  Revisiting character pictures
-chapter16  Where do we go from here?
+chapter0    Getting Started<br>
+chapter1    Working and strings<br>
+chapter2    Looping and counting<br>
+chapter3    Working with batches of data<br>
+chapter4    Organizing programs and data<br>
+chapter5    Using sequential containers and analyzing strings<br>
+chapter6    Using library algorithms<br>
+chapter7    Using associative containers<br>
+chapter8    Writting generic functions<br>
+chapter9    Defining new types<br>
+chapter10   Managing memory and low-level data structures<br>
+chapter11   Defining abstract data types<br>
+chapter12   Making class objects act like values<br>
+chapter13   Using inheritance and dynamic binding<br>
+chapter14   Managing memory(almost)automatically<br>
+chapter15   Revisiting character pictures<br>
+chapter16   Where do we go from here?<br>
