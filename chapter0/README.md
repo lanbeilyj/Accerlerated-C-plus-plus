@@ -13,14 +13,17 @@ This (") is a quote, and this (\) is a backslash.
 0-4. Write a program that, when run, writes the Hello, world! program as its output.
 
 0-5. Is this a valid program? Why or why not? 
+```
 #include <iostream>
 int main()   std::cout << "Hello, world!" << std::endl;
-
+```
 0-6. Is this a valid program? Why or why not?
+```
 #include <iostream>
 int main()   {{{{{{ std::cout << "Hello, world!" << std::endl; }}}}}}
-
+```
 0-7. What about this one?
+```
 #include <iostream>
 int main() 
 {
@@ -29,8 +32,9 @@ int main()
     std::cout << "Does this work?" << std::endl;
     return 0; 
 }
-
+```
 0-8. ...and this one?
+```
 #include <iostream>
 int main()
 {
@@ -40,6 +44,7 @@ int main()
     std::cout << "Does this work?" << std::endl;
     return 0;
 }
+```
 
 0-9. What is the shortest valid program?
 
