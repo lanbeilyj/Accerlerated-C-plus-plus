@@ -6,8 +6,9 @@
 ```
 The quick brown fox 
 jumped over the fence
+```
 the output would be
-
+```
       The quick     brown fox 
 jumped over the     fence
 The quick brown     fox 
