@@ -13,8 +13,8 @@ Accerlerated C plus plus
 > This is a very classic c + + books.Liu Weipeng gave a highly evaluation to this book in his CSDN blog (http://blog.csdn.net/pongba/article/details/1930150). Liu Weipeng,a senior engineer in Microsoft at silicon valley,also write an artical about an interview with Bjarne Stroustrup is the designer and original implementer of C++ and the author of "The C++ Programming Language" and “The Design and Evolution of C++”.And the site of this artical is: http://blog.csdn.net/pongba/article/details/2034207.
 
 >Liu Weipeng's blog:<br>
--MindHacks :http://mindhacks.cn(http://mindhacks.cn)<br>
--CSDN :http://blog.csdn.net/pongba(http://blog.csdn.net/pongba)
+-MindHacks :http://mindhacks.cn<br>
+-CSDN :http://blog.csdn.net/pongba
 
 ===
 ###My Purpose
