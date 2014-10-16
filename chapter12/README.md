@@ -1,4 +1,5 @@
-Exercises
+#Exercises
+
 12-0. Compile, execute, and test the programs in this chapter.
 
 12-1. Reimplement the Str class, but choose an implementation strategy that requires that the class manage the storage itself. For example, you might store an array of char and a length. Consider what implications this change in design has for copy control. Also consider the cost of using Vec, (e.g., in storage overhead).

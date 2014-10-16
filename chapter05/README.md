@@ -1,12 +1,14 @@
-Exercises
+#Exercises
+
 5-0. Compile, execute, and test the programs in this chapter.
 
 5-1. Design and implement a program to produce a permuted index. A permuted index is one in which each phrase is indexed by every word in the phrase. So, given the following input,
-
+```
 The quick brown fox 
 jumped over the fence
+```
 the output would be
-
+```
       The quick     brown fox 
 jumped over the     fence
 The quick brown     fox 
@@ -15,6 +17,7 @@ The quick brown     fox
             The     quick brown fox 
     jumped over     the fence
                     The quick brown fox
+```
 A good algorithm is suggested in The AWK Programming Language by Aho, Kernighan, and Weinberger (Addison-Wesley, 1988). That solution divides the problem into three steps:
 
 Read each line of the input and generate a set of rotations of that line. Each rotation puts the next word of the input in the first position and rotates the previous first word to the end of the phrase. So the output of this phase for the first line of our input would be 
@@ -25,6 +28,7 @@ fox The quick brown
 Of course, it will be important to know where the original phrase ends and where the rotated beginning begins. 
 Sort the rotations. 
 Unrotate and write the permuted index, which involves finding the separator, putting the phrase back together, and writing it properly formatted.
+
 5-2. Write the complete new version of the student-grading program, which extracts records for failing students, using vectors. Write another that uses lists. Measure the performance difference on input files of ten lines, 1,000 lines, and 10,000 lines.
 
 5-3. By using a typedef, we can write one version of the program that implements either a vector-based solution or a list-based one. Write and test this version of the program.
@@ -36,9 +40,10 @@ Unrotate and write the permuted index, which involves finding the separator, put
 5-6. Rewrite the extract_fails function from §5.1.1/77 so that instead of erasing each failing student from the input vector v, it copies the records for the passing students to the beginning of v, and then uses the resize function to remove the extra elements from the end of v. How does the performance of this version compare with the one in §5.1.1/77?
 
 5-7. Given the implementation of frame in §5.8.1/93, and the following code fragment
-
+```
 vector<string> v;
 frame(v);
+```
 describe what happens in this call. In particular, trace through how both the width function and the frame function operate. Now, run this code. If the results differ from your expectations, first understand why your expectations and the program differ, and then change one to match the other.
 
 5-8. In the hcat function from §5.8.3/95, what would happen if we defined s outside the scope of the while? Rewrite and execute the program to confirm your hypothesis.

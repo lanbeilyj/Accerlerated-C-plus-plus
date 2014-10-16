@@ -1,4 +1,5 @@
-Exercises
+#Exercises
+
 10-0. Compile, execute, and test the programs in this chapter.
 
 10-1. Rewrite the student-grading program from §9.6/166 to generate letter grades.
@@ -12,5 +13,3 @@ Exercises
 10-5. Write a bidirectional iterator for your String_list class.
 
 10-6. Test the class by rewriting the split function to put its output into a String_list.
-
-

@@ -1,4 +1,5 @@
-Exercises
+#Exercises
+
 11-0. Compile, execute, and test the programs in this chapter.
 
 11-1. The Student_info structure that we defined in Chapter 9 did not define a copy constructor, assignment operator, or destructor. Why not?
@@ -18,5 +19,3 @@ Exercises
 11-8. Write a simplified version of the standard list class and its associated iterator.
 
 11-9. The grow function in §11.5.1/208 doubles the amount of memory each time it needs more. Estimate the efficiency gains of this strategy. Once you've predicted how much of a difference it makes, change the grow function appropriately and measure the difference.
-
-
