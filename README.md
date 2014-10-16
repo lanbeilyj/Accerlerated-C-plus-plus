@@ -10,7 +10,7 @@ Accerlerated C plus plus
 [![](https://github.com/CNhoward/Accerlerated-C-plus-plus/blob/master/images/ac1.png)][![](https://github.com/CNhoward/Accerlerated-C-plus-plus/blob/master/images/ac2.png)]
 ===
 ###Recommended
-> This is a very classic c + + books.Liu Weipeng gave a highly evaluation to this book in his CSDN blog http://blog.csdn.net/pongba/article/details/1930150(学习C++：实践者的方法). Liu Weipeng,a senior engineer in Microsoft at silicon valley,also write an artical about an interview with Bjarne Stroustrup is the designer and original implementer of C++ and the author of "The C++ Programming Language" and “The Design and Evolution of C++”.And the site of this artical is: http://blog.csdn.net/pongba/article/details/2034207(C++之父元旦专访（8+13个问题，关于C++的学习&使用和未来).
+> This is a very classic c + + books.Liu Weipeng gave a highly evaluation to this book in his CSDN blog 《学习C++：实践者的方法》http://blog.csdn.net/pongba/article/details/1930150. Liu Weipeng,a senior engineer in Microsoft at silicon valley,also write an artical about an interview with Bjarne Stroustrup is the designer and original implementer of C++ and the author of "The C++ Programming Language" and “The Design and Evolution of C++”.And the site of this artical is:《C++之父元旦专访（8+13个问题，关于C++的学习&使用和未来》http://blog.csdn.net/pongba/article/details/2034207.
 
 >Liu Weipeng's blog:<br>
 -MindHacks :http://mindhacks.cn<br>
