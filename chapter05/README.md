@@ -21,14 +21,19 @@ The quick brown     fox
 A good algorithm is suggested in The AWK Programming Language by Aho, Kernighan, and Weinberger (Addison-Wesley, 1988). That solution divides the problem into three steps:
 
 Read each line of the input and generate a set of rotations of that line. Each rotation puts the next word of the input in the first position and rotates the previous first word to the end of the phrase. So the output of this phase for the first line of our input would be 
+```
 The quick brown fox
 quick brown fox The
 brown fox The quick
 fox The quick brown
+```
 Of course, it will be important to know where the original phrase ends and where the rotated beginning begins. 
 Sort the rotations. 
 Unrotate and write the permuted index, which involves finding the separator, putting the phrase back together, and writing it properly formatted.
-
+Tips:
+[![](https://github.com/CNhoward/Accerlerated-C-plus-plus/blob/master/chapter05/images/1.jpg)]
+[![](https://github.com/CNhoward/Accerlerated-C-plus-plus/blob/master/chapter05/images/2.jpg)]
+[![](https://github.com/CNhoward/Accerlerated-C-plus-plus/blob/master/chapter05/images/3.jpg)]
 5-2. Write the complete new version of the student-grading program, which extracts records for failing students, using vectors. Write another that uses lists. Measure the performance difference on input files of ten lines, 1,000 lines, and 10,000 lines.
 
 5-3. By using a typedef, we can write one version of the program that implements either a vector-based solution or a list-based one. Write and test this version of the program.
