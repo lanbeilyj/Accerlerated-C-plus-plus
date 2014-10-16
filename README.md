@@ -11,11 +11,11 @@ Accerlerated C plus plus
 ===
 ###Recommended
 > This is a very classic c + + books.Liu Weipeng gave a highly evaluation to this book in his CSDN blog (http://blog.csdn.net/pongba/article/details/1930150). Liu Weipeng,a senior engineer in Microsoft at silicon valley,also write an artical about an interview with Bjarne Stroustrup is the designer and original implementer of C++ and the author of "The C++ Programming Language" and “The Design and Evolution of C++”.And the site of this artical is: http://blog.csdn.net/pongba/article/details/2034207.
-```
+
 >Liu Weipeng's blog:
--sites 1:http://mindhacks.cn
--sites 2:http://blog.csdn.net/pongba
-```
+-sites 1:http://mindhacks.cn(http://mindhacks.cn)
+-sites 2:http://blog.csdn.net/pongba(http://blog.csdn.net/pongba
+
 
 ===
 ###My Purpose
@@ -23,7 +23,7 @@ Accerlerated C plus plus
 
 >[Blogs] http://blog.csdn.net/yj_cs<br>
 >[Email] 975468079@qq.com<br>
->[Chinese version of this book's exercise solutions] http://blog.csdn.net/yj_cs/article/details/40112579
+>[Chinese version of this book's exercises solutions] http://blog.csdn.net/yj_cs/article/details/40112579
 
 ===
 ###Content
