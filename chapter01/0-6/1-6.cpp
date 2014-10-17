@@ -1,0 +1,1 @@
+Ans：输入name1，输出Hello, name1 And what is yours?然后要求输入name2，输出Hello, name2;nice to meet you too!

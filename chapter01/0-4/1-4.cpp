@@ -1,0 +1,1 @@
+Ans：同上题，将}}修改为};}依然输出a string \n another string；添加的";"是一条空语句。

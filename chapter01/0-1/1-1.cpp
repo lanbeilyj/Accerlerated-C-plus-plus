@@ -1,0 +1,1 @@
+Ans： "+"两端不能都是字符串字面量或char类型值，只能进行字符串和字符串字面量的连接； const std::string message="hello"+", world"+"!"。
