@@ -1,0 +1,1 @@
+Ans：利用typedef vector/list TYPE，用TYPE进行替换即可。
