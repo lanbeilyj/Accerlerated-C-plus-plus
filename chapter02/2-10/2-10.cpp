@@ -1,0 +1,1 @@
+Ans：cout,cin,endl,string等都来自名称空间std，限定名std::cout指明cout来自std名称空间，之后使用cout即表示std::cout，从而使得程序较为简洁；注意作用域，有效范围从{开始，到}结束。

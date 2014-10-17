@@ -1,0 +1,1 @@
+Ans：同2-0，仅将const int pad=1，修改为int pad; cin>>pad;即可。
