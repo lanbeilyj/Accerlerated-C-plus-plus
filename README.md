@@ -27,12 +27,12 @@ Accerlerated C plus plus
 ===
 ###Content
 > 
-chapter0    Getting Started<br>
-chapter1    Working and strings<br>
-chapter2    Looping and counting<br>
-chapter3    Working with batches of data<br>
-chapter4    Organizing programs and data<br>
-chapter5    Using sequential containers and analyzing strings<br>
+<a href="http://blog.csdn.net/yj_cs/article/details/39664961">chapter0    Getting Started</a><br>
+<a href="http://blog.csdn.net/yj_cs/article/details/39674105">chapter1    Working and strings</a><br>
+<a href="http://blog.csdn.net/yj_cs/article/details/39830759">chapter2    Looping and counting</a><br>
+<a href="http://blog.csdn.net/yj_cs/article/details/39830759">chapter3    Working with batches of data</a><br>
+<a href="http://blog.csdn.net/yj_cs/article/details/39942561">chapter4    Organizing programs and data</a><br>
+<a href="http://blog.csdn.net/yj_cs/article/details/40020439">chapter5    Using sequential containers and analyzing strings<br>
 chapter6    Using library algorithms<br>
 chapter7    Using associative containers<br>
 chapter8    Writting generic functions<br>
