@@ -33,7 +33,7 @@ Accerlerated C plus plus
 <a href="http://blog.csdn.net/yj_cs/article/details/39830759">chapter3    Working with batches of data</a><br>
 <a href="http://blog.csdn.net/yj_cs/article/details/39942561">chapter4    Organizing programs and data</a><br>
 <a href="http://blog.csdn.net/yj_cs/article/details/40020439">chapter5    Using sequential containers and analyzing strings</a><br>
-chapter6    Using library algorithms<br>
+<a href="http://blog.csdn.net/yj_cs/article/details/40187281">chapter6    Using library algorithms</a><br>
 chapter7    Using associative containers<br>
 chapter8    Writting generic functions<br>
 chapter9    Defining new types<br>
