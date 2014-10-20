@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1413794115 source:/home/lyj/Desktop/6-9/main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<numeric>
+	<iterator>
+

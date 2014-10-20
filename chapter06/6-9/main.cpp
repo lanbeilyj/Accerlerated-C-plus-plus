@@ -1,20 +1,9 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include <algorithm>
+#include <numeric>
 #include <iterator>
 using namespace std;
-
-string vsjoin(vector<string>& vs)
-{
-    vector<string>::const_iterator it=vs.begin();
-    string s;
-    for(;it!=vs.end();++it)
-    {
-        s=s+*it;
-    }
-    return s;
-}
 
 int main()
 {
@@ -23,8 +12,9 @@ int main()
     while(cin>>s)
         vs.push_back(s);
 
-    string vsj=vsjoin(vs);
+    string t("");
+    t=accumulate(vs.begin(),vs.end(),t);
 
-    cout<<endl<<vsj<<endl;
+    cout<<endl<<t<<endl;
     return 0;
 }
