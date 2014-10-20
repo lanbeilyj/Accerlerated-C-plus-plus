@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1413721057 source:/home/lyj/Desktop/chapter06/6-0/studentsScore/grade.cpp
+	"Student_info.h"
+	"grade.h"
+	"median.h"
+	<stdexcept>
+
+1413700893 source:/home/lyj/Desktop/chapter06/6-0/studentsScore/main.cpp
+	<iostream>
+
+1413723174 source:/home/lyj/Desktop/chapter06/6-0/studentsScore/Student_info.cpp
+	"Student_info.h"
+	<iostream>
+	<algorithm>
+	"grade.h"
+
+1413723157 /home/lyj/Desktop/chapter06/6-0/studentsScore/Student_info.h
+	<vector>
+	<string>
+
+1413719429 /home/lyj/Desktop/chapter06/6-0/studentsScore/grade.h
+	<vector>
+	"Student_info.h"
+
+1413719607 /home/lyj/Desktop/chapter06/6-0/studentsScore/median.h
+	<vector>
+
+1413719607 source:/home/lyj/Desktop/chapter06/6-0/studentsScore/median.cpp
+	"median.h"
+	<algorithm>
+
+1413721186 source:/home/lyj/Desktop/chapter06/6-0/studentsScore/median_analysis.cpp
+	"median_analysis.h"
+	<iterator>
+	<algorithm>
+	<iostream>
+	"grade.h"
+	"median.h"
+	<stdexcept>
+
+1413726402 /home/lyj/Desktop/chapter06/6-0/studentsScore/median_analysis.h
+	"Student_info.h"
+
+1413721814 source:/home/lyj/Desktop/chapter06/6-0/studentsScore/average_analysis.cpp
+	"average_analysis.h"
+	<numeric>
+	"grade.h"
+	<algorithm>
+	"median.h"
+
+1413721435 /home/lyj/Desktop/chapter06/6-0/studentsScore/average_analysis.h
+	"Student_info.h"
+	<vector>
+	<string>
+
+1413722799 source:/home/lyj/Desktop/chapter06/6-0/studentsScore/optimistic_median_analysis.cpp
+	"optimistic_median_analysis.h"
+	<algorithm>
+	"median.h"
+
+1413722752 /home/lyj/Desktop/chapter06/6-0/studentsScore/optimistic_median_analysis.h
+	"Student_info.h"
+	"grade.h"
+

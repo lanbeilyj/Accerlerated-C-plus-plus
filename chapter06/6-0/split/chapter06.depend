@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1413697748 source:/home/lyj/Desktop/chapter06/6-0/split/main.cpp
+	<iostream>
+	"split.h"
+
+1413696826 /home/lyj/Desktop/chapter06/6-0/split/split.h
+	<vector>
+	<string>
+
+1413697537 source:/home/lyj/Desktop/chapter06/6-0/split/split.cpp
+	"split.h"
+	<cctype>
+	<algorithm>
+

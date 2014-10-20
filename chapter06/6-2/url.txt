@@ -1,0 +1,10 @@
+In this txt , we will make a lot of words that not exists in todays English languages.
+Of course, for the test. to find the urls. such as http://www.blog.csdn.net/yj_cs
+but this follow examples are not:
+://
+http://
+:://www.blog.csdn.net/yj_cs
+www.blog.csdn.net/yj_cs
+http:://www.blog.csdn.net/yj_cs
+http://blog.csdn.net/yj_cs
+then, can you understand?
