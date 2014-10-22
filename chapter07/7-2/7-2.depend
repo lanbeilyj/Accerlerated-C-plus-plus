@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1413526758 source:/home/lyj/Desktop/7-2/grade.cpp
+	<stdexcept>
+	<vector>
+	"grade.h"
+	"median.h"
+	"Student_info.h"
+
+1413526731 /home/lyj/Desktop/7-2/grade.h
+	<vector>
+	"Student_info.h"
+
+1413526672 /home/lyj/Desktop/7-2/Student_info.h
+	<iostream>
+	<string>
+	<vector>
+
+1413526642 /home/lyj/Desktop/7-2/median.h
+	<vector>
+
+1413526599 source:/home/lyj/Desktop/7-2/median.cpp
+	<algorithm>
+	<vector>
+	<stdexcept>
+
+1413526702 source:/home/lyj/Desktop/7-2/Student_info.cpp
+	"Student_info.h"
+
