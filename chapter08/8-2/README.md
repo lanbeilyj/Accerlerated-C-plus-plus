@@ -1,5 +1,6 @@
 #The Standard Library algorithm Realization
-=some of the algorithm I gave the test example but not all for the limit time
+===
+I have gave some of the algorithm's test example and not give all for the time limited
 
 #1.max(x,y)
 ```
