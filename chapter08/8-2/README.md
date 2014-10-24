@@ -225,18 +225,92 @@ void split(const string& s,Out os)
     }
 }
 ```
-//14.equal(b,e,b2)
+#14.equal(b,e,b2)
+```
+template <class In>
+bool equal(In beg,In end,In beg2)
+{
+    while(beg!=end)
+    {
+        if(*beg!=*beg2)
+        {
+            return false;
+        }
+        ++beg;
+        ++beg2;
+    }
+    return true;
+}
+```
+#15.transform(b,e,d,f)
+```
+template <class In,class Out>
+Out transform(In beg,In end,Out beg2,,bool fun(In))
+{
+    while(beg!=end)
+    {
+        if(fun(beg))
+        {
+            *beg2=*beg;
+            ++beg;
+        }
+        ++beg2;
+        ++beg;
+    }
+}
+```
+#16.partition(b,e,p)
+```
+/*
+ *b,e is a bothway iterator;if p return true put the elements into the former of the container,else into the later;
+ *return a iterator direct to the first dissatified elements.
+*/
+template <class Y>
+bool fun(Y& x)
+{
+    return *x<6;
+}
+template <class X>
+void sw(X& x,X& y)
+{
+    X temp=x;
+    x=y;
+    y=temp;
+}
+template <class In>
+In partition(In beg,In end,bool fun(In&))
+{
+    while(beg!=end)
+    {
+        while(fun(beg))
+        {
+            ++beg;
+            if(beg==end)
+                return beg;
+        }
 
-//15.transform(b,e,d,f)
+        do{
+            --end;
+            if(beg==end)
+                return beg;
+        }while(!fun(end));
 
-//16.partition(b,e,p)
-
-//17.accumulate(b,e,t)
-
-//18.sort(b,e)
-
-//19.stable_sort(b,e,p)
-/*if the function have not suply "<" to justify
- *then we will use  predicate-"p" to justify*/
-
-
+        sw(*beg,*end);
+        ++beg;
+    }
+    return beg;
+}
+```
+#17.accumulate(b,e,t)
+```
+template <class In,class X>
+X accumulate(In beg,In end,X x)
+{
+    while(beg!=end)
+    {
+        x+=*beg;
+        ++beg;
+    }
+    return x;
+}
+```
