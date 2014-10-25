@@ -35,7 +35,7 @@ Accerlerated C plus plus
 <a href="http://blog.csdn.net/yj_cs/article/details/40020439">chapter5    Using sequential containers and analyzing strings</a><br>
 <a href="http://blog.csdn.net/yj_cs/article/details/40187281">chapter6    Using library algorithms</a><br>
 <a href="http://blog.csdn.net/yj_cs/article/details/40187299">chapter7    Using associative containers</a><br>
-chapter8    Writting generic functions<br>
+<a href="http://blog.csdn.net/yj_cs/article/details/40187321">chapter8    Writting generic functions</a><br>
 chapter9    Defining new types<br>
 chapter10   Managing memory and low-level data structures<br>
 chapter11   Defining abstract data types<br>
