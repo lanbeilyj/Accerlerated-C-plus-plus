@@ -1,0 +1,1 @@
+If the class defines no constructors at all, then the compiler will synthesize the default constructor, which is the constructor that has no parameters. But,if a class defines any constructor explicitly, even a copy constructor, then the compiler will not synthesize a default constructor for that class.

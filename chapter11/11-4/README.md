@@ -1,0 +1,1 @@
+The synthesized Student_info destructor will destroy the pointer, but destroying a pointer does not free the space to which it points. We defined four data members:string name;double midterm,fin;vector<double> homework;

@@ -1,0 +1,2 @@
+If the class author does not specify these operations, the compiler synthesizes default versions of the unspecified operations.
+
