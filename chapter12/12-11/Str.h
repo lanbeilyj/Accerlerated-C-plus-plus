@@ -18,6 +18,7 @@ public:
 
     Str() { create(0,'\0'); }
     Str(size_type n,char c) { create(n,c); }
+    Str(const Str& s) { create(s.begin(), s.end()); }
     Str(const char* cp) { create(cp,cp+strlen(cp)); }
     template <class In> Str(In b,In e) { create(b,e); }
     ~Str() { uncreate(); }

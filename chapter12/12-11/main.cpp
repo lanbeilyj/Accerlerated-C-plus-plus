@@ -1,17 +1,17 @@
 #include <iostream>
 #include "Str.cpp"
-#include <vector>
+#include "Vec.h"
 #include <cctype>
 using namespace std;
-vector<Str> split(const Str& s)
+Vec<Str> split(const Str& s)
 {
-	vector<Str> ret;
-	Str::size_type size=s.size(),i=0;
-	while(i!=size)
+	Vec<Str> ret;
+	Str::size_type i=0;
+	while(i!=s.size())
 	{
-		while(i!=size && isspace(s[i]))++i;
+		while(i!=s.size() && isspace(s[i]))++i;
 		Str::size_type j=i;
-		while(j!=size && !isspace(s[j]))++j;
+		while(j!=s.size() && !isspace(s[j]))++j;
 		if(j!=i)
 		{
 			ret.push_back(s.substr(i,j-i));
@@ -23,8 +23,8 @@ vector<Str> split(const Str& s)
 int main()
 {
 	Str s="I am a bad boy";
-    vector<Str> vec=split(s);
-    for(vector<Str>::size_type i=0;i!=vec.size();++i)
+    Vec<Str> vec=split(s);
+    for(Vec<Str>::size_type i=0;i!=vec.size();++i)
         cout<<vec[i]<<endl;
 
 	return 0;
