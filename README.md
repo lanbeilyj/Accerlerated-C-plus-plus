@@ -38,8 +38,8 @@ Accerlerated C plus plus
 <a href="http://blog.csdn.net/yj_cs/article/details/40187321">chapter8    Writting generic functions</a><br>
 <a href="http://blog.csdn.net/yj_cs/article/details/40187445">chapter9    Defining new types</a><br>
 <a href="http://blog.csdn.net/yj_cs/article/details/40187477">chapter10   Managing memory and low-level data structures</a><br>
-chapter11   Defining abstract data types<br>
-chapter12   Making class objects act like values<br>
+<a href="http://blog.csdn.net/yj_cs/article/details/40187501">chapter11   Defining abstract data types</a><br>
+<a href="http://blog.csdn.net/yj_cs/article/details/40187529">chapter12   Making class objects act like values</a><br>
 chapter13   Using inheritance and dynamic binding<br>
 chapter14   Managing memory(almost)automatically<br>
 chapter15   Revisiting character pictures<br>
