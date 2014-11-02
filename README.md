@@ -40,7 +40,7 @@ Accerlerated C plus plus
 <a href="http://blog.csdn.net/yj_cs/article/details/40187477">chapter10   Managing memory and low-level data structures</a><br>
 <a href="http://blog.csdn.net/yj_cs/article/details/40187501">chapter11   Defining abstract data types</a><br>
 <a href="http://blog.csdn.net/yj_cs/article/details/40187529">chapter12   Making class objects act like values</a><br>
-chapter13   Using inheritance and dynamic binding<br>
+<a href="http://blog.csdn.net/yj_cs/article/details/40187551">chapter13   Using inheritance and dynamic binding</a><br>
 chapter14   Managing memory(almost)automatically<br>
 chapter15   Revisiting character pictures<br>
 chapter16   Where do we go from here?<br>
