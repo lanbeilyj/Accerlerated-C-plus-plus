@@ -1,5 +1,5 @@
 #Exercises
-
+these exercises are basically same as chapter10 and chapter09,for improve the efficiency,some of the exercises you can reference to these two chapter.
 13-0. Compile, execute, and test the programs in this chapter.
 
 13-1. Annotate the Core and Grad constructors to write the constructor's name and argument list when the constructor is executed. For example, you should add a statement such as
