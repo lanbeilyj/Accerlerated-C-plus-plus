@@ -1,0 +1,15 @@
+#include "Str.h"
+
+std::ostream& operator<< (std::ostream& os,const Str& s)
+{
+    for (Str::size_type i=0;i!=s.size();++i)
+        os << s[i];
+    return os;
+}
+
+Str operator+ (const Str& x,const Str& y)
+{
+    Str temp=x;
+    temp+=y;
+    return temp;
+}
