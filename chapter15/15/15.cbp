@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="15" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/15" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Ptr.h" />
+		<Unit filename="frame_pic.cpp" />
+		<Unit filename="frame_pic.h" />
+		<Unit filename="hcat_pic.cpp" />
+		<Unit filename="hcat_pic.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="pic_base.h" />
+		<Unit filename="picture.cpp" />
+		<Unit filename="picture.h" />
+		<Unit filename="string_pic.cpp" />
+		<Unit filename="string_pic.h" />
+		<Unit filename="vcat_pic.cpp" />
+		<Unit filename="vcat_pic.h" />
+		<Extensions>
+			<envvars />
+			<code_completion />
+			<lib_finder disable_auto="1" />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
