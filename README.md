@@ -43,4 +43,4 @@ Accerlerated C plus plus
 <a href="http://blog.csdn.net/yj_cs/article/details/40187551">chapter13   Using inheritance and dynamic binding</a><br>
 <a href="http://blog.csdn.net/yj_cs/article/details/40187575">chapter14   Managing memory(almost)automatically</a><br>
 <a href="http://blog.csdn.net/yj_cs/article/details/40187597">chapter15   Revisiting character pictures</a><br>
-chapter16   Where do we go from here?<br>
+<a href="http://blog.csdn.net/yj_cs/article/details/40187625">chapter16   Where do we go from here?</a><br>
