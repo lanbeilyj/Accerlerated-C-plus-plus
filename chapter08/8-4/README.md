@@ -30,10 +30,10 @@ but we can do like this, and it will work:
 ```
 if(begin!=end)
 {
-	In::value_type temp;
-	*temp=*begin;
+	typename In::value_type temp;
+	temp=*begin;
 	*begin=*end;
-	*end=*temp;
+	*end=temp;
 	++begin;
 }
 ```
